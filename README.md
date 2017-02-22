@@ -2,6 +2,8 @@
 
 Simple Python module for evaluating the efficiency of data processing.
 
+At this point, module support only 2-dimensions arrays :(
+
 ## Usage
 ```python
 import data_processing_evaluation
